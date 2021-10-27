@@ -1,0 +1,20 @@
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+th
+{
+    background-color: darkgray;
+}
+td
+{
+    text-align: center;
+}
+
+.btn
+{
+    allign: center;
+    height: 100px;
+    width: 100px;
+}
